@@ -57,3 +57,4 @@ tidy_data <- dcast(melt_data, volunteer_ID + activity_label ~ variable, mean)
 ### output the result "data" and "tidy_data"
 write.table(data, file="./data_txt")
 write.table(tidy_data, file="./tidy_data.txt")
+# write.table(tidy_data, file="./tidy_data.txt", row.name=FALSE)
