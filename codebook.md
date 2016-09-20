@@ -66,7 +66,9 @@ for each activity and each subject.
 Above results can be obtained by run_analysis.R. See README.md for more details. 
 
 The run of run_analysis.R will produce two more files insider the folder UCI HAR Dataset:
+
 data.txt
+
 tidy_data.txt
 
 ############################
