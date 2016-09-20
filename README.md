@@ -37,7 +37,7 @@ Third, fininshing.
     similar to step 1
 
 3. use the command rbind to combine the obtained test data and train data
-4. 
+
 4. use the commands melt and dcast to obtain the tidy_data
     P.S. in this step, we used library "reshape2". If you have no this package, use install.packages("reshape2") to install.
 
